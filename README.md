@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Zakary Chauve-Nardini
 - 👀 I’m interested in launching myself as a Freelance FullStack Developper
+- 💻 I'm using Figma, Vite, React, Tailwind, VS Code and ArchLinux.
 - 🌱 I’m currently learning the React Framework
 - 📫 You can find me at https://zakary.xyz
 <!---
