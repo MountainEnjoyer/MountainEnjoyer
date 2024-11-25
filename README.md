@@ -1,4 +1,5 @@
-## 🌐 Socials:
+[![](https://visitcount.itsvg.in/api?id=MountainEnjoyer&icon=5&color=2)](https://visitcount.itsvg.in)## 🌐 Socials:
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zchauve) 
 
 # 💻 Tech Stack:
@@ -16,7 +17,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MountainEnjoyer&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=MountainEnjoyer&icon=5&color=2)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
