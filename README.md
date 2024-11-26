@@ -2,6 +2,9 @@
 <br/>
 [![](https://visitcount.itsvg.in/api?id=MountainEnjoyer&icon=5&color=2)](https://visitcount.itsvg.in)<br/>
 
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zchauve) 
@@ -13,9 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=MountainEnjoyer&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MountainEnjoyer&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MountainEnjoyer&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ### 🔝 Top Contributed Repo
