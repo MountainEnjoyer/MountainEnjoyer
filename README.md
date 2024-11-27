@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=MountainEnjoyer&icon=5&color=2)](https://visitcount.itsvg.in)<br/>
 
 # 💫 About Me:
-🔭 I’m currently working on a Personal Portfolio<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a Personal Portfolio.<br>👯 I’m looking to collaborate on Open Source.<br>🤝 I’m looking for help to launch a StartUp.<br>🌱 I’m currently learning Blender, React and Firebase.<br>
 
 ## 🌐 Socials:
 
