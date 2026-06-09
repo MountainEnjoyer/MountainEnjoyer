@@ -3,10 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=MountainEnjoyer&icon=5&color=2)](https://visitcount.itsvg.in)<br/>
 
 # 😶‍🌫️ About Me:
-🔭 I’m currently working on a [Portfolio](https://zakary.xyz).<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help to launch a StartUp.<br>🌱 I’m currently learning Blender, React and Firebase.<br>
-
-## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zchauve) 
+🔭 I’m currently working on a [Portfolio](https://zakary.xyz).<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for a stable Tech Jobs.<br>🌱 I’m currently learning Vulkan, Radio and Electronics.<br>
 
 # 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) <br/>
