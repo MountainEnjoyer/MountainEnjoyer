@@ -1,11 +1,11 @@
 ![Banner](https://github.com/MountainEnjoyer/MountainEnjoyer/blob/main/1700392944925.jpg)
 ##
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MountainEnjoyer&stroke=64748b&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" />
-<p align="center"><br/><br/>🚶 I’m currently working Visual Simulation using C. <br> 👥 I’m looking to contribute on Open Source.<br>🤝 I’m studying to find a stable Tech Jobs.<br>🌱 I’m currently learning Radio and Electronics.<br></p>
+<p align="center"><br/><br/><br/>🚶 I’m currently working Visual Simulation using C. <br> 👥 I’m looking to contribute on Open Source.<br>🤝 I’m studying to find a stable Tech Jobs.<br>🌱 I’m currently learning Radio and Electronics.<br></p>
 
 
 
-<br/>
+
 
 ##
 
