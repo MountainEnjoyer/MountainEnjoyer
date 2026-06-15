@@ -4,7 +4,7 @@
 <p align="center"><br/><br/><br/>🚶 I’m currently working Visual Simulation using C. <br> 👥 I’m looking to contribute on Open Source.<br>🤝 I’m studying to find a stable Tech Jobs.<br>🌱 I’m currently learning Radio and Electronics.<br></p>
 
 
-
+<br/>
 
 
 ##
