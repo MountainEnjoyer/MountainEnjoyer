@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fugaz+One&size=90&duration=3000&pause=1000&color=B8B8B8&center=true&vCenter=true&width=1000&height=100&lines=Zakary+CHAUVE;Developer;Technician;Inventor)](https://git.io/typing-svg)
 ##
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MountainEnjoyer&stroke=64748b&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" />
-<p align="center"><br/><br/><br/>🚶 I’m currently working Visual Simulation using C. <br> 👥 I’m looking to contribute on Open Source.<br>🤝 I’m studying to find a stable Tech Jobs.<br>🌱 I’m currently learning Radio and Electronics.<br></p>
-<br/>
+<p align="center"><p align="center"><br/><br/>🚶 I’m workingon Physics Simulations. <br> 👥 I’m looking to contribute on Open Source.<br>🤝 I’m studying to find a stable Tech Jobs.<br>🌱 I’m currently learning Radio and EE.<br></p>
+<br/></p>
 
 
 ##
