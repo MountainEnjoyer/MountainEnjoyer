@@ -1,13 +1,66 @@
-![Banner](https://github.com/MountainEnjoyer/MountainEnjoyer/blob/main/1700392944925.jpg)
-##
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MountainEnjoyer&stroke=64748b&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" />
-<p align="center"><p align="center"><br/><br/><br/>🚶 I’m working on Physics Simulations. <br> 👥 I’m looking to contribute on Open Source.<br>🤝 I’m studying to find a stable Tech Jobs.<br>🌱 I’m currently learning Radio and EE.<br></p>
-<br/></p>
-
-
-##
+<h1 align="center">Hi, I'm Zakary 👋</h1>
 
 <p align="center">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" title="Neovim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
+  Self-taught programmer and student at <b>42 Lausanne</b><br>
+  <b>C/C++ · physics simulations · embedded systems</b>
 </p>
 
+<p align="center">
+  <a href="https://zakary.codes"><img src="assets/badge-website.svg" alt="Website: zakary.codes" height="28"></a>
+  <a href="https://www.linkedin.com/in/zchauve/"><img src="assets/badge-linkedin.svg" alt="LinkedIn: zchauve" height="28"></a>
+  <img src="assets/badge-open.svg" alt="Open to junior / internship roles" height="28">
+</p>
+
+<p align="center">🔎 Looking for junior or internship roles in software, embedded or simulation — Lausanne area or remote.</p>
+
+---
+
+## 🧪 What I build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MountainEnjoyer/DoublePendulum"><img src="assets/double-pendulum.gif" alt="Double pendulum simulation" width="100%"></a>
+      <h3><a href="https://github.com/MountainEnjoyer/DoublePendulum">DoublePendulum</a></h3>
+      Chaotic double pendulum driven by its equations of motion, rendered in real time with Raylib.<br>
+      <code>C</code> <code>Raylib</code> <code>numerical integration</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MountainEnjoyer/GravitationalForces"><img src="assets/gravitational-forces.gif" alt="Gravitational forces simulation" width="100%"></a>
+      <h3><a href="https://github.com/MountainEnjoyer/GravitationalForces">GravitationalForces</a></h3>
+      A stream of objects curving around two celestial bodies under gravity (shown at 3× speed), configurable from a launch script.<br>
+      <code>C</code> <code>Raylib</code> <code>Bash</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MountainEnjoyer/Electrostatism"><img src="assets/electrostatism.gif" alt="Electrostatism simulation" width="100%"></a>
+      <h3><a href="https://github.com/MountainEnjoyer/Electrostatism">Electrostatism</a></h3>
+      500 positive and negative charges interacting through Coulomb's law.<br>
+      <code>C</code> <code>Raylib</code> <code>N-body</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MountainEnjoyer/SoundSystem">🎛️ SoundSystem</a></h3>
+      Modular synthesizer built on Arduino: hardware and firmware.<br>
+      <code>C++</code> <code>Arduino</code> <code>electronics</code>
+      <br><br>
+      <h3><a href="https://github.com/MountainEnjoyer/ShellScripts">🐚 ShellScripts</a></h3>
+      Scripts to learn and automate everyday tasks.<br>
+      <code>Bash</code> <code>Linux</code>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tech
+
+<p>
+  <b>Main</b><br>
+  <img src="assets/skills-main.svg" alt="Main skills: C, Python, C++, Bash, Linux, Git" height="34"><br><br>
+  <b>Also</b><br>
+  <img src="assets/skills-also.svg" alt="Also: TypeScript, React, Node.js, Docker, Arduino" height="34">
+</p>
+
+## 🌱 Currently
+
+- Learning radio and electronics
+- Looking for open-source projects to contribute to (C, embedded, tooling)
